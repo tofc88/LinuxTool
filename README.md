@@ -100,5 +100,5 @@ curl -L https://gitee.com/krhzj/LinuxTool/raw/main/Linux.sh -o Linux.sh && chmod
 ```
 境外服务器
 ```bash
-curl -L https://raw.githubusercontent.com/wsmtofc/LinuxTool/main/Linux.sh -o Linux.sh && chmod +x Linux.sh && bash Linux.sh
+curl -L https://raw.githubusercontent.com/tofc88/LinuxTool/main/Linux.sh -o Linux.sh && chmod +x Linux.sh && bash Linux.sh
 ```
