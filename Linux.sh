@@ -140,13 +140,13 @@ get_greeting() {
     local hour=$(date +"%H")
     case $hour in
         1|2|3|4|5|6|7|8|9|10|11)
-            echo "上午好！欢迎使用亚洲云linux工具"
+            echo "上午好！欢迎使用老王linux工具"
             ;;
         12|13|14|15|16|17|18)
-            echo "下午好！欢迎使用亚洲云linux工具"
+            echo "下午好！欢迎使用老王linux工具"
             ;;
          *)
-            echo "晚上好！欢迎使用亚洲云linux工具"
+            echo "晚上好！欢迎使用老王linux工具"
             ;;
     esac
 }
